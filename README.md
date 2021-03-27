@@ -1,5 +1,7 @@
 # みんなでテイクアウトMAP <開発版>
 
+https://github.com/osakakita/takeaway に移行した
+
 ## 概要と目的
 * OverPass APIでOpenStreetMapのテイクアウト/デリバリー施設を抽出して地図に表示するツール
 * 他のテイクアウトMAPとの相違点は、OpenStreetMapの活用によるマッピング活動の促進が狙い
